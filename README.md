@@ -1,6 +1,6 @@
 # postboard
 
-Flutter alapú Chat alkalmazás
+Flutter alapú csoportos chat alkalmazás
 
 Leírás:
 
